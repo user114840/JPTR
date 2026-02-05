@@ -1,0 +1,23 @@
+accelerate==1.11.0
+causal-conv1d @ file:///root/whl/causal_conv1d-1.2.2.post1%2Bcu118torch2.3cxx11abiFALSE-cp310-cp310-linux_x86_64.whl#sha256=bf184dd0c8dbb6dfd9d515b4951c7ff4a6bf136f74480001cc4c43cdd90ca16d
+chardet==5.2.0
+decord==0.6.0
+diffusers==0.35.2
+fvcore==0.1.5.post20221221
+httpx==0.28.1
+loguru==0.7.3
+mamba-ssm @ file:///root/whl/mamba_ssm-2.0.4%2Bcu118torch2.3cxx11abiFALSE-cp310-cp310-linux_x86_64.whl#sha256=6b59d1059e78815221998b720bb211ea4cf5cc83113f393228e005a9fddda0ad
+mambapy==1.2.0
+omegaconf==2.3.0
+open_clip_torch==3.2.0
+PuLP==3.3.0
+pytest==9.0.1
+scipy==1.15.3
+seaborn==0.13.2
+shellingham==1.5.4
+submitit==1.5.3
+tensorboardX==2.6.4
+torchaudio==2.3.1+cu118
+torchmetrics==1.8.2
+typer-slim==0.20.0
+wandb==0.23.0
